@@ -36,6 +36,6 @@
 </h1>
 
 <h2>Click the button below to deploy Yukki on Okteto!</h4>
-<a href="https://cloud.okteto.com/deploy?repository=https://github.com/EmoBot-Industry/Emo-Apps-Store-Bot"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
+<a href="https://cloud.okteto.com/deploy?repository=https://github.com/EmoBot-Industry/Emo-Apps-Store-Bot"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a><br><br><br>
 
-<h3>This Is Copy of Appstorebot
+    This Is Copy of Appstorebot 
